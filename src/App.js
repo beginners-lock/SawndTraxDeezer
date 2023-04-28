@@ -10,6 +10,7 @@ class App extends Component {
 			<div id="body">
 				<BrowserRouter>
 					<Routes>
+						<Route path="/SawndTraxDeezer" element={<First />} />
 						<Route path="/" element={<First />} />
 						<Route path="/home" element={<Home />} />
 					</Routes>
