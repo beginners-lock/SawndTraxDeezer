@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/SawndTrakzDeezer/static/css/main.63061ce6.css",
+    "main.js": "/SawndTrakzDeezer/static/js/main.c4f80e2a.js",
+    "static/js/787.22ba3788.chunk.js": "/SawndTrakzDeezer/static/js/787.22ba3788.chunk.js",
+    "index.html": "/SawndTrakzDeezer/index.html",
+    "main.63061ce6.css.map": "/SawndTrakzDeezer/static/css/main.63061ce6.css.map",
+    "main.c4f80e2a.js.map": "/SawndTrakzDeezer/static/js/main.c4f80e2a.js.map",
+    "787.22ba3788.chunk.js.map": "/SawndTrakzDeezer/static/js/787.22ba3788.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.63061ce6.css",
+    "static/js/main.c4f80e2a.js"
+  ]
+}
