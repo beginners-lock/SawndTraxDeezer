@@ -12,7 +12,7 @@ class App extends Component {
 					<Routes>
 						<Route path="/SawndTraxDeezer" element={<First />} />
 						<Route path="/" element={<First />} />
-						<Route path="/home" element={<Home />} />
+						<Route path="/SawndTraxDeezer/home" element={<Home />} />
 					</Routes>
 				</BrowserRouter>
 			</div>
